@@ -1,7 +1,7 @@
 # Case-Study-How-does-a-bike-share-navigate-speedy-success
 Description: This is the one of the Capstone Project offered by the Google_Data_Analytics_Certificate.
 Developed by: Karla Leiva Arauz
-Version Date: 1/May/2025
+Version Date: 10/July/2025
 
 
 Analysis Directed by the Key Question: 
@@ -14,3 +14,4 @@ The task done for this project were:
 •	Data Analysis and Visualization: Divvy Trip Trends analysis and visualization and creating charts and graphs.
 •	Recommendations for Future Analysis.
 
+The report can be found in the document named **Report. Author Karla Leiva.pdf**.  
